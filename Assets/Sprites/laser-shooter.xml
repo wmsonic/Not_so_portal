@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="laser-shooter.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="laser-off" x="0" y="0" width="51" height="29"/>
+	<SubTexture name="laser-on" x="0" y="29" width="51" height="29"/>
+</TextureAtlas>

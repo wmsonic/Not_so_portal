@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Antenna-extending.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Antena-extends instance 10000" x="0" y="0" width="84" height="46" frameX="-113" frameY="0" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10001" x="0" y="0" width="84" height="46" frameX="-113" frameY="0" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10002" x="84" y="0" width="109" height="44" frameX="-89" frameY="-1" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10003" x="0" y="46" width="116" height="41" frameX="-80" frameY="-2" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10004" x="116" y="46" width="128" height="38" frameX="-67" frameY="-4" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10005" x="0" y="87" width="140" height="46" frameX="-55" frameY="0" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10006" x="0" y="133" width="195" height="40" frameX="0" frameY="-3" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10007" x="0" y="133" width="195" height="40" frameX="0" frameY="-3" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10008" x="0" y="173" width="152" height="42" frameX="-45" frameY="-2" frameWidth="198" frameHeight="46"/>
+	<SubTexture name="Antena-extends instance 10009" x="0" y="173" width="152" height="42" frameX="-45" frameY="-2" frameWidth="198" frameHeight="46"/>
+</TextureAtlas>
