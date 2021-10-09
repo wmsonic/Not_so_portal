@@ -135,7 +135,9 @@ public class Player : MonoBehaviour {
 		//left shift
 		if(Input.GetButtonUp("Fire3")){
 			//se teleporter d'un portail a l'autre
-			GoThroughPortal();
+			if(_portalIn!=""){
+				GoThroughPortal();
+			}
 		}
 
 	}
